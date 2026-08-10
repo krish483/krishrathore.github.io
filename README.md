@@ -1,6 +1,6 @@
 # Krish Rathore | Data Analyst & Analytics Professional
 
-![Krish Rathore](https://github.com/krish483/krishrathore.github.io/blob/main/file%20(1).jpg)
+![Krish Rathore](https://raw.githubusercontent.com/krish483/krishrathore.github.io/main/file%20(1).jpg)
 
 👋 **Hi there! I'm Krish.** Welcome to my GitHub profile. I am an Analytics Professional with a passion for uncovering actionable insights from complex datasets. Currently pursuing my B.Tech at the National Institute of Technology (NIT), Jamshedpur, I specialize in SQL, Python, and Data Visualization across engineering, research, and retail domains.
 
